@@ -48,6 +48,15 @@ testCases = [
     # @author: Janhavi Chaudhari
     # """
 
+    ['Karapakkam', 'yes', 'other', 'Gravel', 1005, 3, 2, 6, 4, 5, 2, 1],
+    ['Chrompet', 'Yes', 'Commercial', 'No Access', 1000, 5, 3, 6, 5, 5, 3, 2],
+    ['Chrompet', 'no', 'others', 'Gravel', 1000, 2, 3, 4, 5, 5, 3, 1],
+    ['T Nagar', 'No', 'house', 'paved', 1200, 4, 3, 4, 5, 3, 5, 1],     
+    ['Velachery', 'YES', 'Commercial', 'No Access', 2500, 5, 4, 6, 5, 3, 6, 5]
+    ['KK Nagar', 'No', 'Commercial', 'Gravel', 1000, 3, 3, 4, 5.5, 5, 8, 1],  # This  test case is wrong and hence it should fail
+    ['Anna Nagae', 'YES', 'House', 'paved', 5500, 5, 5, 6, 3, 5, 4, 5] # This  test case is wrong and hence it should fail
+    ['Adyar', 'No', 'Commercial', 'Gravel', 1800, 3, 2, 4, 5, 1, 3, 1],   
+
 
 
 
